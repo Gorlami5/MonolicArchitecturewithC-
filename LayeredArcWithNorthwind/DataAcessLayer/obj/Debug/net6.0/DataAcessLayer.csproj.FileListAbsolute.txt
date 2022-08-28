@@ -1,0 +1,15 @@
+C:\Users\MONSTER\source\repos\LayeredArcWithNorthwind\DataAcessLayer\bin\Debug\net6.0\DataAcessLayer.deps.json
+C:\Users\MONSTER\source\repos\LayeredArcWithNorthwind\DataAcessLayer\bin\Debug\net6.0\DataAcessLayer.dll
+C:\Users\MONSTER\source\repos\LayeredArcWithNorthwind\DataAcessLayer\bin\Debug\net6.0\DataAcessLayer.pdb
+C:\Users\MONSTER\source\repos\LayeredArcWithNorthwind\DataAcessLayer\bin\Debug\net6.0\Entites.dll
+C:\Users\MONSTER\source\repos\LayeredArcWithNorthwind\DataAcessLayer\bin\Debug\net6.0\Entites.pdb
+C:\Users\MONSTER\source\repos\LayeredArcWithNorthwind\DataAcessLayer\obj\Debug\net6.0\DataAcessLayer.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\LayeredArcWithNorthwind\DataAcessLayer\obj\Debug\net6.0\DataAcessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\source\repos\LayeredArcWithNorthwind\DataAcessLayer\obj\Debug\net6.0\DataAcessLayer.AssemblyInfoInputs.cache
+C:\Users\MONSTER\source\repos\LayeredArcWithNorthwind\DataAcessLayer\obj\Debug\net6.0\DataAcessLayer.AssemblyInfo.cs
+C:\Users\MONSTER\source\repos\LayeredArcWithNorthwind\DataAcessLayer\obj\Debug\net6.0\DataAcessLayer.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\LayeredArcWithNorthwind\DataAcessLayer\obj\Debug\net6.0\DataAcessLayer.csproj.CopyComplete
+C:\Users\MONSTER\source\repos\LayeredArcWithNorthwind\DataAcessLayer\obj\Debug\net6.0\DataAcessLayer.dll
+C:\Users\MONSTER\source\repos\LayeredArcWithNorthwind\DataAcessLayer\obj\Debug\net6.0\refint\DataAcessLayer.dll
+C:\Users\MONSTER\source\repos\LayeredArcWithNorthwind\DataAcessLayer\obj\Debug\net6.0\DataAcessLayer.pdb
+C:\Users\MONSTER\source\repos\LayeredArcWithNorthwind\DataAcessLayer\obj\Debug\net6.0\ref\DataAcessLayer.dll

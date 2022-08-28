@@ -1,0 +1,17 @@
+C:\Users\MONSTER\source\repos\LayeredArcWithNorthwind\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\MONSTER\source\repos\LayeredArcWithNorthwind\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\MONSTER\source\repos\LayeredArcWithNorthwind\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\MONSTER\source\repos\LayeredArcWithNorthwind\BusinessLayer\bin\Debug\net6.0\DataAcessLayer.dll
+C:\Users\MONSTER\source\repos\LayeredArcWithNorthwind\BusinessLayer\bin\Debug\net6.0\Entites.dll
+C:\Users\MONSTER\source\repos\LayeredArcWithNorthwind\BusinessLayer\bin\Debug\net6.0\DataAcessLayer.pdb
+C:\Users\MONSTER\source\repos\LayeredArcWithNorthwind\BusinessLayer\bin\Debug\net6.0\Entites.pdb
+C:\Users\MONSTER\source\repos\LayeredArcWithNorthwind\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\LayeredArcWithNorthwind\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\source\repos\LayeredArcWithNorthwind\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\MONSTER\source\repos\LayeredArcWithNorthwind\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\MONSTER\source\repos\LayeredArcWithNorthwind\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\LayeredArcWithNorthwind\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+C:\Users\MONSTER\source\repos\LayeredArcWithNorthwind\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\MONSTER\source\repos\LayeredArcWithNorthwind\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\MONSTER\source\repos\LayeredArcWithNorthwind\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\MONSTER\source\repos\LayeredArcWithNorthwind\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll

@@ -1,0 +1,256 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\MONSTER\\source\\repos\\LayeredArcWithNorthwind\\UserInterface\\UserInterface.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\MONSTER\\source\\repos\\LayeredArcWithNorthwind\\BusinessLayer\\BusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MONSTER\\source\\repos\\LayeredArcWithNorthwind\\BusinessLayer\\BusinessLayer.csproj",
+        "projectName": "BusinessLayer",
+        "projectPath": "C:\\Users\\MONSTER\\source\\repos\\LayeredArcWithNorthwind\\BusinessLayer\\BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\MONSTER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MONSTER\\source\\repos\\LayeredArcWithNorthwind\\BusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MONSTER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\MONSTER\\source\\repos\\LayeredArcWithNorthwind\\DataAcessLayer\\DataAcessLayer.csproj": {
+                "projectPath": "C:\\Users\\MONSTER\\source\\repos\\LayeredArcWithNorthwind\\DataAcessLayer\\DataAcessLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MONSTER\\source\\repos\\LayeredArcWithNorthwind\\DataAcessLayer\\DataAcessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MONSTER\\source\\repos\\LayeredArcWithNorthwind\\DataAcessLayer\\DataAcessLayer.csproj",
+        "projectName": "DataAcessLayer",
+        "projectPath": "C:\\Users\\MONSTER\\source\\repos\\LayeredArcWithNorthwind\\DataAcessLayer\\DataAcessLayer.csproj",
+        "packagesPath": "C:\\Users\\MONSTER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MONSTER\\source\\repos\\LayeredArcWithNorthwind\\DataAcessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MONSTER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\MONSTER\\source\\repos\\LayeredArcWithNorthwind\\Entites\\Entites.csproj": {
+                "projectPath": "C:\\Users\\MONSTER\\source\\repos\\LayeredArcWithNorthwind\\Entites\\Entites.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MONSTER\\source\\repos\\LayeredArcWithNorthwind\\Entites\\Entites.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MONSTER\\source\\repos\\LayeredArcWithNorthwind\\Entites\\Entites.csproj",
+        "projectName": "Entites",
+        "projectPath": "C:\\Users\\MONSTER\\source\\repos\\LayeredArcWithNorthwind\\Entites\\Entites.csproj",
+        "packagesPath": "C:\\Users\\MONSTER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MONSTER\\source\\repos\\LayeredArcWithNorthwind\\Entites\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MONSTER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MONSTER\\source\\repos\\LayeredArcWithNorthwind\\UserInterface\\UserInterface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MONSTER\\source\\repos\\LayeredArcWithNorthwind\\UserInterface\\UserInterface.csproj",
+        "projectName": "UserInterface",
+        "projectPath": "C:\\Users\\MONSTER\\source\\repos\\LayeredArcWithNorthwind\\UserInterface\\UserInterface.csproj",
+        "packagesPath": "C:\\Users\\MONSTER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MONSTER\\source\\repos\\LayeredArcWithNorthwind\\UserInterface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MONSTER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\MONSTER\\source\\repos\\LayeredArcWithNorthwind\\BusinessLayer\\BusinessLayer.csproj": {
+                "projectPath": "C:\\Users\\MONSTER\\source\\repos\\LayeredArcWithNorthwind\\BusinessLayer\\BusinessLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
