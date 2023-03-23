@@ -1,4 +1,4 @@
-# LayeredArchitecturewithCSharp
+# MonolicArchitecturewithC#
 Create layered architecture using Northwind database
 
 **Purpose of Project**
@@ -9,7 +9,7 @@ Create layered architecture using Northwind database
 -Learning and using OOP
 
 
--Figure out Layered Architecture
+-Figure out Monolic Architecture
 
 
 -Perfrom SOLID principles
